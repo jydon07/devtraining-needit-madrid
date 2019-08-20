@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="77062ebedb13330044ce17803996190f" sys_domain="global" table="x_58872_needit_neddit" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-20 05:20:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7b062ebedb13330044ce178039961911</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_neddit" name="x_58872_needit_neddit" sys_domain="global" view="ff575a76db13330044ce17803996194c">77062ebedb13330044ce17803996190f</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_neddit" sys_domain="global" view="ff575a76db13330044ce17803996194c">fb575a76db13330044ce178039961950</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-20 05:20:11</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-20 05:20:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77062ebedb13330044ce1780399619d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_neddit" name="x_58872_needit_neddit" sys_domain="global" view="ff575a76db13330044ce17803996194c">77062ebedb13330044ce17803996190f</sys_ui_form>
+            <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_neddit" sys_domain="global" view="ff575a76db13330044ce17803996194c">3b062ebedb13330044ce17803996190e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-20 05:20:11</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-20 05:23:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>40c6a2fedb13330044ce1780399619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_neddit" name="x_58872_needit_neddit" sys_domain="global" view="ff575a76db13330044ce17803996194c">77062ebedb13330044ce17803996190f</sys_ui_form>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_58872_needit_neddit" sys_domain="global" view="ff575a76db13330044ce17803996194c">c4c6a2fedb13330044ce1780399619cc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-20 05:23:12</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_58872_needit_neddit</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-20 05:20:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77062ebedb13330044ce17803996190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_58872_needit_neddit</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_form_sections_77062ebedb13330044ce17803996190f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-20 05:20:11</sys_updated_on>
+            <sys_user/>
+            <view display_value="New form001" name="New_form001">ff575a76db13330044ce17803996194c</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
